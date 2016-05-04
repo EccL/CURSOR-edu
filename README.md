@@ -1,1 +1,1 @@
-# CURSOR-edu
+# homework-1
